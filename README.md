@@ -4,8 +4,8 @@
 While imagination may be more important than knowledge, knowledge empowers imagination, and learning how to code has accelerated
 this cycle for me.
 
-- 🌱 I’m currently learning web development with HTML and CSS. I'm looking forward to breaking into Javascript so that I can animate
-web pages and apps into interactive experiences.
+- 🌱 I’m currently learning how to integrate GPT3 APIs into code. In the meantime, I'm also using Treehouse to build my skills
+for developing with Javascript and React.
 
 - 📫 You can reach me at david.a.waldherr@vanderbilt.edu
 
