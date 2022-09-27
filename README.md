@@ -4,8 +4,8 @@
 While imagination may be more important than knowledge, knowledge empowers imagination, and learning how to code has accelerated
 this cycle for me.
 
-- 🌱 I’m currently learning how to integrate GPT3 APIs into code. In the meantime, I'm also using Treehouse to build my skills
-for developing with Javascript and React.
+- 🌱 I’m currently learning React-Three Fiber to create 3D web experiences. My current ambition is to create a Natural Language 
+Processing (NLP) dream journal using the OpenAI API in order to solve the problem of lucid dreaming.
 
 - 📫 You can reach me at david.a.waldherr@vanderbilt.edu
 
