@@ -10,7 +10,7 @@
 
 # 👑 Main Plot: I’m currently building ai-assisted "God Tools" at Centaur SEO.
 
-## 🧭 Sidequest: My current ambition is to create an LLM/LVM dream journal in order to solve the opportunity of lucid dreaming.
+## 🧭 Sidequest: Build an LLM/LVM dream journal in order to solve the opportunity of lucid dreaming.
 
 ### 📫 You can reach me at david@centaurseo.com
 
