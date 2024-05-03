@@ -8,7 +8,7 @@
 ## 🧬 Learning how to code has accelerated this cycle for me.
 
 
-# 👑 Main Plot: I’m currently building ai-assisted SEO "God Tools" at Centaur SEO.
+# 👑 Main Plot: I’m currently building ai-assisted "God Tools" at Centaur SEO.
 
 ## 🧭 Sidequest: My current ambition is to create an LLM/LVM dream journal in order to solve the opportunity of lucid dreaming.
 
