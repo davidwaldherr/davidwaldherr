@@ -1,8 +1,9 @@
 # 👋 Hi, I’m @davidwaldherr
 
 
-## 🪐 I’m interested in how the knowledge of coding languages enhances one's possibility for creative imagination.
-While imagination may be more important than knowledge, knowledge empowers imagination.
+## 🪐 I’m interested in exploring how learning coding languages enhances one's possibility for creative imagination.
+
+## 💠 While imagination may be more important than knowledge, knowledge empowers imagination.
 
 ## 🧬 Learning how to code has accelerated this cycle for me.
 
