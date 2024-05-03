@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @davidwaldherr
+## 👋 Hi, I’m @davidwaldherr
 
-- 👀 I’m interested in how the knowledge of coding languages enhances one's possibility for creative imagination.
+## 🪐 I’m interested in how the knowledge of coding languages enhances one's possibility for creative imagination.
 While imagination may be more important than knowledge, yet knowledge empowers imagination.
-Learning how to code has accelerated this cycle for me.
 
-- 🌱 I’m currently learning React-Three Fiber to create 3D web experiences. My current ambition is to create a Natural Language 
-Processing (NLP) dream journal using the OpenAI API in order to solve the problem of lucid dreaming.
+# 🧬 Learning how to code has accelerated this cycle for me.
 
-- 📫 You can reach me at david.a.waldherr@vanderbilt.edu
+## 👑 Main Plot: I’m currently building ai-assisted SEO "God Tools" at Centaur SEO.
+
+## 🧭 Sidequest: My current ambition is to create an LLM/LVM dream journal in order to solve the opportunity of lucid dreaming.
+
+## 📫 You can reach me at david@centaurseo.com
 
 <!---
 davidwaldherr/davidwaldherr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
